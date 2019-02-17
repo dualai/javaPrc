@@ -1,9 +1,11 @@
-public class Templet {
+public class ProductCustomer {
     public static void main(String[] args) {
-        new Templet().test();
+        new ProductCustomer().test();
     }
 
     public void test(){
 
     }
+
+
 }
