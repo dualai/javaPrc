@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="800393b2-20bb-42be-9462-79d0c719f51b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieLock/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductCustomer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductCustomer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductCustomer4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cus_prod/Cus_Prod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cus_prod/Cus_Prod2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cus_prod/Cus_Prod3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cus_prod/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ticket/SellTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ticket/TicketResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cus_prod2/CusProd0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cus_prod2/Resource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Templet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Templet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestByteBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestByteBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPrc/META-INF/javaPrc.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,22 +17,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cus_prod/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/cus_prod2/CusProd0.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="108" lean-forward="true" selection-start-line="22" selection-start-column="108" selection-end-line="22" selection-end-column="108" />
+            <state relative-caret-position="727">
+              <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1699#1700#0" expanded="true" />
+                <element signature="e#1728#1729#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cus_prod/Cus_Prod3.java">
+        <entry file="file://$PROJECT_DIR$/src/cus_prod2/Resource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+            <state relative-caret-position="160">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="21" />
               <folding>
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,6 +81,8 @@
         <option value="$PROJECT_DIR$/src/cus_prod/Cus_Prod2.java" />
         <option value="$PROJECT_DIR$/src/cus_prod/Cus_Prod3.java" />
         <option value="$PROJECT_DIR$/src/cus_prod/Student.java" />
+        <option value="$PROJECT_DIR$/src/cus_prod2/Resource.java" />
+        <option value="$PROJECT_DIR$/src/cus_prod2/CusProd0.java" />
       </list>
     </option>
   </component>
@@ -108,6 +98,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,36 +117,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cus_prod" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javaPrc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaPrc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DieLock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPrc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaPrc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ticket" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550419951426" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550483167640" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.18967453" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -176,9 +155,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cus_Prod3">
+  <component name="RunManager" selected="Application.CusProd0">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CusProd0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cus_prod2.CusProd0" />
+      <module name="javaPrc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cus_prod2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -239,20 +232,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SellTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ticket.SellTicket" />
-      <module name="javaPrc" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DieLock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -285,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CusProd0" />
         <item itemvalue="Application.Cus_Prod3" />
         <item itemvalue="Application.Cus_Prod2" />
         <item itemvalue="Application.Cus_Prod" />
         <item itemvalue="Application.DeadLock" />
-        <item itemvalue="Application.SellTicket" />
       </list>
     </recent_temporary>
   </component>
@@ -305,26 +284,28 @@
       <updated>1550327352689</updated>
       <workItem from="1550327355975" duration="850000" />
       <workItem from="1550374761547" duration="14851000" />
+      <workItem from="1550478300762" duration="4011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15701000" />
+    <option name="totallyTimeSpent" value="19712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="24" width="2474" height="1308" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25846407" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26094136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32962328" />
+      <window_info anchor="bottom" id="Weex Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962328" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.52226025" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3057644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39982876" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,8 +313,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32962328" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4544695" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32962328" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -368,20 +350,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="1083" column="18" selection-start-line="1083" selection-start-column="18" selection-end-line="1083" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/nio/HeapByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/nio/HeapByteBuffer.java" />
     <entry file="file://$PROJECT_DIR$/src/Templet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -420,17 +390,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="549" column="11" selection-start-line="549" selection-start-column="11" selection-end-line="549" selection-end-column="11" />
-          <folding>
-            <element signature="e#19132#19133#0" expanded="true" />
-            <element signature="e#19175#19176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
     <entry file="file://$PROJECT_DIR$/src/Log.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -496,13 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cus_prod/Cus_Prod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -539,14 +492,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cus_prod/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="108" lean-forward="true" selection-start-line="22" selection-start-column="108" selection-end-line="22" selection-end-column="108" />
+        <state relative-caret-position="340">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="313" column="22" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="157" column="27" selection-start-line="157" selection-start-column="27" selection-end-line="157" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cus_prod2/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cus_prod2/CusProd0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1699#1700#0" expanded="true" />
+            <element signature="e#1728#1729#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <last-edited>jquery</last-edited>
@@ -561,11 +581,23 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.8144</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.18967453" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaPrc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
