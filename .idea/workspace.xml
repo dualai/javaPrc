@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="800393b2-20bb-42be-9462-79d0c719f51b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cus_prod2/CusProd0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cus_prod2/Resource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPrc/META-INF/javaPrc.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,16 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cus_prod2/CusProd0.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="727">
-              <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+            <state relative-caret-position="1620">
+              <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1699#1700#0" expanded="true" />
-                <element signature="e#1728#1729#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -33,9 +38,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cus_prod2/Resource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="140">
               <caret line="8" column="21" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="21" />
               <folding>
+                <element signature="e#124#125#0" expanded="true" />
                 <element signature="e#161#162#0" expanded="true" />
               </folding>
             </state>
@@ -77,12 +83,12 @@
         <option value="$PROJECT_DIR$/src/ticket/DeadLock.java" />
         <option value="$PROJECT_DIR$/src/DieLock/DeadLock.java" />
         <option value="$PROJECT_DIR$/src/cus_prod/Cus_Prod.java" />
-        <option value="$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt" />
         <option value="$PROJECT_DIR$/src/cus_prod/Cus_Prod2.java" />
         <option value="$PROJECT_DIR$/src/cus_prod/Cus_Prod3.java" />
         <option value="$PROJECT_DIR$/src/cus_prod/Student.java" />
         <option value="$PROJECT_DIR$/src/cus_prod2/Resource.java" />
         <option value="$PROJECT_DIR$/src/cus_prod2/CusProd0.java" />
+        <option value="$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt" />
       </list>
     </option>
   </component>
@@ -97,8 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,16 +121,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cus_prod" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javaPrc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPrc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cus_prod2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550483167640" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550483218067" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -284,28 +296,28 @@
       <updated>1550327352689</updated>
       <workItem from="1550327355975" duration="850000" />
       <workItem from="1550374761547" duration="14851000" />
-      <workItem from="1550478300762" duration="4011000" />
+      <workItem from="1550478300762" duration="4063000" />
+      <workItem from="1550483266057" duration="135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19712000" />
+    <option name="totallyTimeSpent" value="19899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="24" width="2474" height="1308" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26094136" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26341867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Weex Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962328" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3057644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3057644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39982876" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -313,9 +325,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4544695" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4544695" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32962328" />
+      <window_info anchor="bottom" id="Weex Console" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -497,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -520,9 +526,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cus_prod2/Resource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="140">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="21" />
           <folding>
+            <element signature="e#124#125#0" expanded="true" />
             <element signature="e#161#162#0" expanded="true" />
           </folding>
         </state>
@@ -530,13 +537,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cus_prod2/CusProd0.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+        <state relative-caret-position="1620">
+          <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1699#1700#0" expanded="true" />
-            <element signature="e#1728#1729#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
