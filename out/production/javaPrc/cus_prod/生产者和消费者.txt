@@ -33,5 +33,19 @@ http://v.youku.com/v_show/id_XMTI2Mzk2MDk4OA==.html?spm=a2h0j.11185381.listitem_
 
 
 
+/**关于生产消费的问题***/
+生产日志应放在入队操作之前，否则同一个task的生产日志可能出现在消费日志之后。
+// 旧的错误代码
+queue.put(task);
+System.out.println("produce: " + task.no);
+// 正确代码
+System.out.println("produce: " + task.no);
+queue.put(task);
+具体来说，生产日志应放在入队操作之前，消费日志应放在出队操作之后，以保障：
+消费线程中queue.take()返回之后，对应生产线程（生产该task的线程）中queue.put()及之前的行为，对于消费线程来说都是可见的。
+想想为什么呢？因为我们需要借助“queue.put()与queue.take()的偏序关系”。其他实现方案分别借助了条件队列、锁的偏序关系，不存在该问题。要解释这个问题，需要读者明白可见性和Happens-Before的概念，篇幅所限，暂时不多解释。
+
+
+
 
 
