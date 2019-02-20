@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="800393b2-20bb-42be-9462-79d0c719f51b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cus_prod2/CusProd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cus_prod3/Test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,16 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cus_prod2/CusProd1.java">
+        <entry file="file://$PROJECT_DIR$/src/cus_prod3/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1400">
-              <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#259#269#0" expanded="true" />
-                <element signature="e#2814#2962#0" expanded="true" />
-                <element signature="e#2961#2962#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -71,6 +65,7 @@
         <option value="$PROJECT_DIR$/src/cus_prod2/CusProd0.java" />
         <option value="$PROJECT_DIR$/src/cus_prod/生产者和消费者.txt" />
         <option value="$PROJECT_DIR$/src/cus_prod2/CusProd1.java" />
+        <option value="$PROJECT_DIR$/src/cus_prod3/Test3.java" />
       </list>
     </option>
   </component>
@@ -85,7 +80,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,25 +97,19 @@
               <item name="javaPrc" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaPrc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cus_prod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPrc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaPrc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cus_prod2" type="462c0819:PsiDirectoryNode" />
+              <item name="cus_prod3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550559118700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550638695320" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -285,13 +274,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25364000" />
+    <option name="totallyTimeSpent" value="26838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="24" width="2474" height="1308" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26589596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26837325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -544,14 +532,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cus_prod2/CusProd1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1400">
-          <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+        <state relative-caret-position="374">
+          <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#259#269#0" expanded="true" />
-            <element signature="e#2814#2962#0" expanded="true" />
-            <element signature="e#2961#2962#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cus_prod3/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
